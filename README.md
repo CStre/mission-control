@@ -8,7 +8,7 @@ The NASA Image and Video Library API provides searchable metadata, images, video
 
 ---
 
-## 🛰️ Base API Information
+<details> <summary><strong>🛰️ Base API Information</strong></summary> <br>
 
 NASA Image & Video Library API Documentation:  
 https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf
@@ -25,13 +25,15 @@ Example Available Endpoints:
 
 You are free to use any endpoints available in the NASA Image and Video Library API.
 
----
+</details>
 
-## 📌 Required Features
+<details> <summary><strong>📌 Required Features</strong></summary> <br>
 
 Implement **at least three (3)** of the following features (or design your own equally complex alternatives), as well as document the work as outlined below in the Documentation section.
 
-### 1️⃣ Integrate with at Least 3 NASA Endpoints
+</details>
+
+<details> <summary><strong>✏️ Integrate with at Least 3 NASA Endpoints</strong></summary> <br>
 
 Your implementation must integrate with **at least three different endpoints** from the NASA Image and Video Library API.
 
@@ -106,9 +108,10 @@ Expose a combined view including:
 
 You are encouraged to design your own endpoints if they demonstrate similar complexity and thoughtful data modeling.
 
----
+</details>
 
-## 📘 Documentation
+
+<details> <summary><strong>📘 Documentation</strong></summary> <br>
 
 Create a second `README.md` in your submission repository that should include:
 
@@ -132,9 +135,10 @@ For each endpoint you create:
 - Trade-offs made  
 - What you would improve with more time  
 
----
+</details>
 
-## 🧪 [BONUS] Testing
+
+<details> <summary><strong>🧪 [BONUS] Testing</strong></summary> <br>
 
 Include tests that cover your API integrations:
 
@@ -145,14 +149,26 @@ Include tests that cover your API integrations:
 
 Tests may be unit tests, integration tests, or both.
 
----
+</details>
 
-## 📤 Submission Instructions
 
-1. Fork this repository  
-2. Complete your implementation  
-3. Push your solution to your fork  
-4. Send us the link — do not submit a ZIP file  
+<details> <summary><strong>📤 Submission Instructions</strong></summary> <br>
+
+This repository is a template repository.
+Please follow these steps carefully:
+
+1. Click *“Use this template”* (top right of the repository page).
+2. Create a new repository under your own GitHub account.
+3. Set your new repository to *Public*.
+4. Complete your implementation in your repository.
+5. When finished, share your public repository with us.
+
+🚫 Do NOT fork this repository.
+🚫 Do NOT submit a ZIP file.
+
+We are only reviewing solutions submitted via a public GitHub repository link created from this template.
+
+</details>
 
 ---
 
@@ -162,6 +178,6 @@ We estimate this challenge should take **3–6 hours**, depending on your famili
 
 Focus on clarity and thoughtful design — it’s not about finishing every possible feature. Show us how you think.
 
----
+
 
 Have fun with it, and we look forward to seeing your solution! 🚀
