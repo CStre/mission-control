@@ -11,7 +11,7 @@ The NASA Image and Video Library API provides searchable metadata, images, video
 <details> <summary><strong>🛰️ Base API Information</strong></summary> <br>
 
 NASA Image & Video Library API Documentation:  
-https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf
+[https://api.nasa.gov/](https://api.nasa.gov/)
 
 Base URL:
 https://images-api.nasa.gov
