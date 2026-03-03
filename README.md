@@ -27,11 +27,6 @@ You are free to use any endpoints available in the NASA Image and Video Library 
 
 </details>
 
-<details> <summary><strong>📌 Required Features</strong></summary> <br>
-
-Implement **at least three (3)** of the following features (or design your own equally complex alternatives), as well as document the work as outlined below in the Documentation section.
-
-</details>
 
 <details> <summary><strong>✏️ Integrate with at Least 3 NASA Endpoints</strong></summary> <br>
 
